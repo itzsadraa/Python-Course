@@ -8,7 +8,7 @@ Introduction to Python and its application in linear algebra course.
 
 ## Author
 
-- [Sadra Gholami](https://www.github.com/RetrO-13th)
+- [Sadra Gholami](https://www.github.com/itzsadraa)
 
 
 ## Contributing
